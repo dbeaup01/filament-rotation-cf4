@@ -3,7 +3,9 @@ Reproducible analysis notebook for detecting coherent rotation in nearby cosmic 
 
 # Coherent Rotation in Nearby Cosmic Filaments (Cosmicflows-4)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dbeaup01/filament-rotation-cf4/blob/main/filament_rotation_cf4.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/dbeaup01/filament-rotation-cf4/blob/main/SFH_Filament_Rotation_CF4_Reproducible.ipynb
+)
 
 ## Overview
 
